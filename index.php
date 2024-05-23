@@ -7,14 +7,10 @@
     <title> send email with php </title>
     <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
-
 <div class="conatainer">
 <h1>contact</h1>
 <form action="" method="post">
-
-
 <div class="form-group">
 <input type="text" name="name" placeholder="Enter Name">
 </div>
